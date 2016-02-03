@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "blackgun",
-    "repositoryName": "blackgun.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"blackgun","repositoryName":"blackgun.github.io","branch":"master"},"site":{"title":"Blackgun Blog","description":"This is blackgun's blog.","url":"https://blackgun.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//blackgun.github.io/themes/Casper"}}
